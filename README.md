@@ -5,7 +5,7 @@
 <h1 align="center">Hey there!</h1>
 <img class="hello-img" src="https://user-images.githubusercontent.com/81381572/178582103-51f5d585-b7ce-4121-adc5-a03d3e572bba.gif" width="110" align="right"/>
 <br />
-<h3 class="intro"> 
+<h2 class="intro"> 
     Welcome, I'm keiko37.
     <br/>
     At the moment I am working as a frontend developer. But I don't stop learning new things that interest me.
@@ -65,20 +65,7 @@
   <a href="https://jestjs.io" target="_blank" rel="noopener">
     <img src="https://user-images.githubusercontent.com/81381572/178577835-cf30a7c3-d2d3-42ca-a31d-909a2ef0ad5e.svg" width="45"></img>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener">
-    <img src="https://user-images.githubusercontent.com/81381572/178577822-c4cea8b8-547e-4ea8-9d41-e04523e20c96.svg" width="45"></img>
-  </a>
-  <a href="https://www.heroku.com/" target="_blank" rel="noopener">
-    <img src="https://user-images.githubusercontent.com/81381572/178577824-cd30ecf3-d488-44a9-9154-70a477d41147.svg" width="45"></img>
-  </a>
 </div>
 
-<div class="projects">
-  <h3>My pet project</h3>
-  <a href="https://github.com/keiko37/things">Things</a>
-  <p>...</p>
-</div>
-
-<p>P.S. If you want to contact me, just <a href="https://github.com/keiko37/keiko37/compare" target="_blank" rel="noopener">leave a pull request</a> for this repository.</p>
 
 <p align="right">© keiko37 with ❤️🦕</p>
